@@ -1,2 +1,2 @@
-# video_test
-Video sequence for hardware testing 
+# Media
+Audio and Video sequence for hardware testing 
