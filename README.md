@@ -1,2 +1,2 @@
 # Media
-Audio and Video sequence for hardware testing 
+Multimedia for hardware testing 
